@@ -341,10 +341,3 @@ Android知识笔记目录：
      * [反转整数](https://github.com/274942954/AndroidCollection/blob/master/Docs/常见面试算法题汇总.md#反转整数)
      * [LRU缓存策略](https://github.com/274942954/AndroidCollection/blob/master/Docs/常见面试算法题汇总.md#lru缓存策略)
 
-# Contanct Me
-如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料，都可以加上QQ群领取。祝愿每一位有追求的Android开发同胞都能进大厂拿高薪！
-
-## QQ群
-
-Android开发交流QQ群：**1087455512**  （备注一下GitHub，免得被我认成打无良广告的）
-
